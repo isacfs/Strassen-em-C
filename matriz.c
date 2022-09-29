@@ -183,7 +183,7 @@ void main(int argc, char **argv)
     int *A;
     int *B;
     int *C;
-//Se a chamada do programa não tiver parametros, argc==1.,,,,,
+//Se a chamada do programa não tiver parametros, argc==1.,,,,,]]]
     if (argc==1)
     {
         printf("Linhas/Colunas das matrizes A e B: ");
