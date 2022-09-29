@@ -178,7 +178,7 @@ int mult_matriz(int *A, int *B, int *C, int n)
 }
 void main(int argc, char **argv)
 {
-    int i, j, k, n, l1, l2, c1, c2, opc, dim;
+    int i, j, k, n;
     clock_t t;
     int *A;
     int *B;
